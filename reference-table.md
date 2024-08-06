@@ -24,12 +24,12 @@
 |                            |  |  |  |  |  |
 | Magnetic permeability, _μ_ | henry per metre (H/m) |  |  |  |  |
 |                            |  |  |  |  |  |
-| Magnetic flux, Φ<sub>_B_</sub> | weber (Wb) = V⋅s |  |  |  |  |
-|                                |  |  |  |  |  |
+| Magnetic flux, Φ<sub>_B_</sub> | weber (Wb) = V s = kg m<sup>2</sup> s<sup>−2</sup> A<sup>−1</sup> |  |  |  |  |
+|                                | M L<sup>2</sup> T<sup>−2</sup> I<sup>−1</sup> |  |  |  |  |
 | Magnetic field strength, **H** | ampere per metre (A/m) |  |  |  |  |
 |                                |  |  |  |  |  |
-| Inductance, _L_ | henry (H) = Wb/A |  |  |  |  |
-|                 |  |  |  |  |  |
+| Inductance, _L_ | henry (H) = Wb/A = kg m<sup>2</sup> s<sup>−2</sup> A<sup>−2</sup> |  |  |  |  |
+|                 | M L<sup>2</sup> T<sup>−2</sup> I<sup>−2</sup> |  |  |  |  |
 | Resistance | ohm (Ω) = V/A = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 |            | M L<sup>2</sup> T<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 | Conductance | siemens (S) = mho (℧) = Ω<sup>−1</sup> = kg<sup>−1</sup> m<sup>−2</sup> s<sup>3</sup> A<sup>2</sup> |  |  |  |  |
