@@ -36,7 +36,7 @@
 |             |  |  |  |  |  |
 | Capacitance | farad (F) = C/V = A<sup>2</sup> s<sup>4</sup> kg<sup>−1</sup> m<sup>−2</sup> |  |  |  |  |
 |             | L<sup>−2</sup> M<sup>−1</sup> T<sup>4</sup> I<sup>2</sup> |  |  |  |  |
-| Resistivity |  |  |  |  |  |
-|             |  |  |  |  |  |
-| Conductivity |  |  |  |  |  |
-|              |  |  |  |  |  |
+| Resistivity, _ρ_ | ohm metre (Ω⋅m) = kg m<sup>3</sup> s<sup>−3</sup> A<sup>−2</sup> | s |  |  |  |
+|                  | M L<sup>3</sup> T<sup>−3</sup> I<sup>−2</sup>                    | T |  |  |  |
+| Conductivity, _σ_ | siemens per metre (S/m) = kg<sup>−1</sup> m<sup>−3</sup> s<sup>3</sup> A<sup>2</sup> | s<sup>−1</sup> |  |  |  |
+|                   | M<sup>−1</sup> L<sup>−3</sup> T<sup>3</sup> I<sup>2</sup> | T<sup>−1</sup> |  |  |  |
