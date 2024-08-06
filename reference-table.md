@@ -10,7 +10,7 @@
 |                   | I | M<sup>1/2</sup> L<sup>3/2</sup> T<sup>−2</sup> |  | M<sup>1/2</sup> L<sup>1/2</sup> T<sup>−1</sup> |  |
 | Current density, **J** | ampere per square metre (A/m<sup>2</sup>) |  |  |  |  |
 |                        | I L<sup>−2</sup> |  |  |  |  |
-| Potential/voltage, _V_ | volt (V) = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−1</sup> |  |  |  |  |
+| Potential/voltage, _V_ | volt (V) = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−1</sup> |  |  |  |  |
 |                        | M L<sup>2</sup> T<sup>−3</sup> I<sup>−1</sup>  |  |  |  |  |
 | Electric field, **E** | volt per metre (V/m) |  |  |  |  |
 |                       |  |  |  |  |  |
