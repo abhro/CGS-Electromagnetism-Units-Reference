@@ -1,10 +1,10 @@
 | Quantity | SI | CGS–ESU | Gaussian | CGS–EMU | Heaviside–Lorentz |
 |----------|----|---------|----------|---------|-------------------|
-| Force, **F** | newton (N)         |  |  |  |  |
+| Force, **F** | newton (N)         | dyne (dyn) = g cm s<sup>−2</sup>  |  |  |  |
 |              | M L T<sup>−2</sup> |  |  |  |  |
 | Energy, _E_ | joule (J)                      |  |  |  |  |
 |             | M L<sup>2</sup> T<sup>−2</sup> |  |  |  |  |
-| Charge, _Q_, _q_ | coulomb (C) = A⋅s | franklin (Fr) = statcoulomb (statC) = esu charge = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>-1</sup> |  | biot second (Bi⋅s) = abcoulomb (abC) = emu charge = dyne<sup>1/2</sup>⋅s |  |
+| Charge, _Q_, _q_ | coulomb (C) = A⋅s | franklin (Fr) = statcoulomb (statC) = esu charge = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−1</sup> |  | biot second (Bi⋅s) = abcoulomb (abC) = emu charge = dyne<sup>1/2</sup>⋅s |  |
 |                  | I T | M<sup>1/2</sup> L<sup>3/2</sup> T<sup>−1</sup> |  | M<sup>1/2</sup> L<sup>1/2</sup> |  |
 | Current, _I_, _j_ | ampere (A) = C/s | franklin per second (Fr/s) = statampere (statA) = esu current |  | biot (Bi) = abampere (abA) = emu current = dyne<sup>1/2</sup> |  |
 |                   | I | M<sup>1/2</sup> L<sup>3/2</sup> T<sup>−2</sup> |  | M<sup>1/2</sup> L<sup>1/2</sup> T<sup>−1</sup> |  |
@@ -17,7 +17,7 @@
 | Electric flux, Φ<sub>_E_</sub> | volt metre (V⋅m) |  |  |  |  |
 |                                |  |  |  |  |  |
 | Magnetic flux density, **B** | tesla (T = Wb/m<sup>2</sup>) |  |  |  |  |
-|                           |  |  |  |  |  |
+|                              |  |  |  |  |  |
 | Electric displacement field, **D** | coulomb per square metre (C/m<sup>2</sup>) |  |  |  |  |
 |                                    |  |  |  |  |  |
 | Electric permittivity, _ε_ | farad per metre (F/m) |  |  |  |  |
