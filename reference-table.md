@@ -16,7 +16,7 @@
 |                       |  |  |  |  |  |
 | Electric flux, Φ<sub>_E_</sub> | volt metre (V⋅m) |  |  |  |  |
 |                                |  |  |  |  |  |
-| Magnetic flux density, **B** | tesla (T = Wb/m<sup>2</sup>) |  |  |  |  |
+| Magnetic flux density, **B** | tesla (T) = Wb/m<sup>2</sup> |  |  |  |  |
 |                              |  |  |  |  |  |
 | Electric displacement field, **D** | coulomb per square metre (C/m<sup>2</sup>) |  |  |  |  |
 |                                    |  |  |  |  |  |
@@ -30,7 +30,7 @@
 |                                |  |  |  |  |  |
 | Inductance, _L_ | henry (H) = Wb/A |  |  |  |  |
 |                 |  |  |  |  |  |
-| Resistance | ohm (Ω) = V/A = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
+| Resistance | ohm (Ω) = V/A = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 |            | M L<sup>2</sup> T<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 | Conductance |  |  |  |  |  |
 |             |  |  |  |  |  |
