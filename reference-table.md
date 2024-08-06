@@ -4,9 +4,9 @@
 |              | M L T<sup>−2</sup> |  |  |  |  |
 | Energy, _E_ | joule (J) = N m = kg m<sup>2</sup> s<sup>−2</sup> | erg = dyn cm = g cm<sup>2</sup> s<sup>−2</sup>  |  |  |  |
 |             | M L<sup>2</sup> T<sup>−2</sup> |  |  |  |  |
-| Charge, _Q_, _q_ | coulomb (C) = A⋅s | franklin (Fr) = statcoulomb (statC) = esu charge = dyn<sup>1/2</sup> cm = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−1</sup> |  | biot second (Bi⋅s) = abcoulomb (abC) = emu charge = dyne<sup>1/2</sup>⋅s = cm<sup>1/2</sup> g<sup>1/2</sup> |  |
+| Charge, _Q_, _q_ | coulomb (C) = A⋅s | franklin (Fr) = statcoulomb (statC) = esu charge = dyn<sup>1/2</sup> cm = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−1</sup> |  | biot second (Bi⋅s) = abcoulomb (abC) = emu charge = dyn<sup>1/2</sup> s = cm<sup>1/2</sup> g<sup>1/2</sup> |  |
 |                  | I T | M<sup>1/2</sup> L<sup>3/2</sup> T<sup>−1</sup> |  | M<sup>1/2</sup> L<sup>1/2</sup> |  |
-| Current, _I_, _j_ | ampere (A) = C/s | franklin per second (Fr/s) = statampere (statA) = esu current = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−2</sup> |  | biot (Bi) = abampere (abA) = emu current = dyne<sup>1/2</sup> = cm<sup>1/2</sup> g<sup>1/2</sup> s<sup>−1</sup> |  |
+| Current, _I_, _j_ | ampere (A) = C/s | franklin per second (Fr/s) = statampere (statA) = esu current = dyn<sup>1/2</sup> cm/s = cm<sup>3/2</sup> g<sup>1/2</sup> s<sup>−2</sup> |  | biot (Bi) = abampere (abA) = emu current = dyn<sup>1/2</sup> = cm<sup>1/2</sup> g<sup>1/2</sup> s<sup>−1</sup> |  |
 |                   | I                | M<sup>1/2</sup> L<sup>3/2</sup> T<sup>−2</sup> |  | M<sup>1/2</sup> L<sup>1/2</sup> T<sup>−1</sup> |  |
 | Current density, **J** | ampere per square metre (A/m<sup>2</sup>) |  |  |  |  |
 |                        | I L<sup>−2</sup> |  |  |  |  |
