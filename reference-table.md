@@ -24,14 +24,14 @@
 |                            |  |  |  |  |  |
 | Magnetic permeability, _μ_ | henry per metre (H/m) |  |  |  |  |
 |                            |  |  |  |  |  |
-| Magnetic flux, Φ<sub>_B_</sub> | weber (Wb = V⋅s) |  |  |  |  |
+| Magnetic flux, Φ<sub>_B_</sub> | weber (Wb) = V⋅s |  |  |  |  |
 |                                |  |  |  |  |  |
 | Magnetic field strength, **H** | ampere per metre (A/m) |  |  |  |  |
 |                                |  |  |  |  |  |
-| Inductance, _L_ | henry (H = Wb/A) |  |  |  |  |
+| Inductance, _L_ | henry (H) = Wb/A |  |  |  |  |
 |                 |  |  |  |  |  |
-| Resistance |  |  |  |  |  |
-|            |  |  |  |  |  |
+| Resistance | ohm (Ω) = V/A = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
+|            | M L<sup>2</sup> T<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 | Conductance |  |  |  |  |  |
 |             |  |  |  |  |  |
 | Capacitance |  |  |  |  |  |
