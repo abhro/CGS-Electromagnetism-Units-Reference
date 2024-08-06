@@ -12,10 +12,10 @@
 |                        | I L<sup>−2</sup> |  |  |  |  |
 | Potential/voltage, _V_ | volt (V) = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−1</sup> |  |  |  |  |
 |                        | M L<sup>2</sup> T<sup>−3</sup> I<sup>−1</sup>  |  |  |  |  |
-| Electric field, **E** | volt per metre (V/m) = N/C |  |  |  |  |
+| Electric field, **E** | volt per metre (V/m) = N/C = kg m s<sup>−3</sup> A<sup>−1</sup> |  |  |  |  |
 |                       | M L T<sup>−3</sup> I<sup>−1</sup> |  |  |  |  |
-| Electric flux, Φ<sub>_E_</sub> | volt metre (V⋅m) |  |  |  |  |
-|                                |  |  |  |  |  |
+| Electric flux, Φ<sub>_E_</sub> | volt metre (V⋅m) = N m<sup>2</sup>/C = kg m<sup>3</sup> s<sup>−3</sup> A<sup>−1</sup> |  |  |  |  |
+|                                | M L<sup>3</sup> T<sup>−3</sup> I<sup>−1</sup> |  |  |  |  |
 | Magnetic flux density, **B** | tesla (T) = Wb/m<sup>2</sup> |  |  |  |  |
 |                              |  |  |  |  |  |
 | Electric displacement field, **D** | coulomb per square metre (C/m<sup>2</sup>) |  |  |  |  |
