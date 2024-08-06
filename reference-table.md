@@ -32,7 +32,7 @@
 |                 |  |  |  |  |  |
 | Resistance | ohm (Ω) = V/A = kg m<sup>2</sup> s<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
 |            | M L<sup>2</sup> T<sup>−3</sup> A<sup>−2</sup> |  |  |  |  |
-| Conductance |  |  |  |  |  |
+| Conductance | siemens (S) = mho (℧) = Ω<sup>−1</sup> |  |  |  |  |
 |             |  |  |  |  |  |
 | Capacitance |  |  |  |  |  |
 |             |  |  |  |  |  |
