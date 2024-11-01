@@ -20,8 +20,8 @@
 |                              | M T<sup>−2</sup> I<sup>−1</sup> |  |  |  |  |
 | Electric displacement field, **D** | coulomb per square metre (C/m<sup>2</sup>) |  |  |  |  |
 |                                    | I T L<sup>−2</sup>                         |  |  |  |  |
-| Electric permittivity, _ε_ | farad per metre (F/m)                               |  |  |  |  |
-|                            | I<sup>2 T<sup>4</sup> M<sup>−1</sup> L<sup>−3</sup> |  |  |  |  |
+| Electric permittivity, _ε_ | farad per metre (F/m)                                     |  |  |  |  |
+|                            | I<sup>2</sup> T<sup>4</sup> M<sup>−1</sup> L<sup>−3</sup> |  |  |  |  |
 | Magnetic permeability, _μ_ | henry per metre (H/m)             |  |  |  |  |
 |                            | M L T<sup>−2</sup> I<sup>−2</sup> |  |  |  |  |
 | Magnetic flux, Φ<sub>_B_</sub> | weber (Wb) = V s = kg m<sup>2</sup> s<sup>−2</sup> A<sup>−1</sup> |  |  |  |  |
