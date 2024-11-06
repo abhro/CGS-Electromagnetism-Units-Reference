@@ -5,3 +5,7 @@
 - Gaussian:
 
   Set electric permittivity _ε_<sub>0</sub> to 1/4π
+
+- Heaviside–Lorenz
+
+  Set electric permittivity _ε_<sub>0</sub> and magnetic permeability _μ_<sub>0</sub> to 1
